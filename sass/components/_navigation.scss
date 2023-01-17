@@ -15,9 +15,11 @@
   }
   &__logo--black {
     color: $textDarkerColor;
+    margin: 0;
   }
   &__logo--white {
     color: $white;
+    margin: 0;
   }
   &__logo--footer {
     padding: 0;
